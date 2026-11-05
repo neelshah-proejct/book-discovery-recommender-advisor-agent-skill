@@ -1,4 +1,4 @@
-# 📚 Book Discovery Advisor
+# 📚 Book Recommender Advisor
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.book-discovery-advisor) [![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/book-discovery-advisor/total?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/releases) [![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/book-discovery-advisor?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/stargazers)
 
