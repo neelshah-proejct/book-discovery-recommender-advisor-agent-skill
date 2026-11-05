@@ -1,4 +1,16 @@
-# Book Discovery Advisor
+# 📚 Book Discovery Advisor
+
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/book-discovery-advisor?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/book-discovery-advisor?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/network/members)
+[![GitHub release](https://img.shields.io/github/v/release/YOUR_USERNAME/book-discovery-advisor?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/book-discovery-advisor/total?style=for-the-badge)](https://github.com/YOUR_USERNAME/book-discovery-advisor/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.book-discovery-advisor)
+
+**Works with:** ChatGPT • Claude • Gemini • Generic AI Agents
+
+⭐ If this project helps you discover better books, consider starring the repository.
 
 A deep-research ChatGPT Skill for personalized book discovery.
 
