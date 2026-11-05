@@ -225,3 +225,5 @@ Particularly useful contributions include better research-source strategies, int
 ## License
 
 Released under the [MIT License](LICENSE).
+
+## Skills created and managed by Neel Shah, more detials at neelshah18.com or dishuu.com 
